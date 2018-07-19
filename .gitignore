@@ -1,0 +1,5 @@
+prj/cmake/
+!prj/cmake/CMakeLists.txt
+
+prj/txt/FullVersion.txt
+src/Simd/SimdVersion.h
